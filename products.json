@@ -25,11 +25,11 @@
       "content": "https://bluefireproductions.github.io/Hoplite.btv",
       "id": "4",
       "price": "2.99",
-      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/cloudshelf-ar.appspot.com/o/Illiad.png?alt=media&token=53c2ca05-5d69-4e78-92f9-e104ab846a7d",
-      "title": "Illiad"
+      "thumbnail": "https://bluefireproductions.github.io/Hoplite.jpg",
+      "title": "Hoplite"
     },
     {
-      "content": "https://bluefireproductions.github.io/products.json/Chicken.btv",
+      "content": "https://bluefireproductions.github.io/Chicken.btv",
       "id": "5",
       "price": "4.99",
       "thumbnail": "https://bluefireproductions.github.io/chicken.png",

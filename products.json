@@ -1,6 +1,13 @@
 {
   "products": [
     {
+      "content": "https://bluefireproductions.github.io/illiad_bluefire.epub",
+      "id": "8",
+      "price": "4.99",
+      "thumbnail": "https://bluefireproductions.github.io/illiad_cover.png",
+      "title": "Spaceship"
+    },
+    {
       "content": "https://firebasestorage.googleapis.com/v0/b/cloudshelf-ar.appspot.com/o/Spaceship.btv?alt=media&token=f7aac497-ac32-4928-b2fb-9ae7d3b838fa",
       "id": "1",
       "price": "1.99",
@@ -43,11 +50,18 @@
       "title": "Llama Llama"
     },
     {
-      "content": "https://firebasestorage.googleapis.com/v0/b/cloudshelf-ar.appspot.com/o/Chicken.btv?alt=media&token=3f11a9eb-29c0-4795-b7fa-f78ac025d438",
-      "id": "7",
+      "content": "https://bluefireproductions.github.io/ladybug.epub",
+      "id": "9",
       "price": "4.99",
       "thumbnail": "https://bluefireproductions.github.io/ladybug.png",
       "title": "Lady Bug Girl"
+    },
+    {
+      "content": "https://bluefireproductions.github.io/llama.epub",
+      "id": "10",
+      "price": "4.99",
+      "thumbnail": "https://bluefireproductions.github.io/llama.png",
+      "title": "Llama Llama"
     }
   ]
 }

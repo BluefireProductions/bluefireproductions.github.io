@@ -40,21 +40,24 @@
       "id": "8",
       "price": "4.99",
       "thumbnail": "https://bluefireproductions.github.io/illiad_cover.png",
-      "title": "Illiad"
+      "title": "Illiad",
+      "type": "book"
     },
     {
       "content": "https://bluefireproductions.github.io/ladybug.epub",
       "id": "9",
       "price": "4.99",
       "thumbnail": "https://bluefireproductions.github.io/ladybug.png",
-      "title": "Lady Bug Girl"
+      "title": "Lady Bug Girl",
+      "type": "book"
     },
     {
       "content": "https://bluefireproductions.github.io/llama.epub",
       "id": "10",
       "price": "4.99",
       "thumbnail": "https://bluefireproductions.github.io/llama.png",
-      "title": "Llama Llama"
+      "title": "Llama Llama",
+      "type": "book"
     }
   ]
 }

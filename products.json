@@ -43,6 +43,13 @@
       "title": "Dancing Chicken"
     },
     {
+      "content": "https://bluefireproductions.github.io/Drawing.btv",
+      "id": "11",
+      "price": "4.99",
+      "thumbnail": "https://bluefireproductions.github.io/Drawing.jpg",
+      "title": "3D -  Drawing"
+    },
+    {
       "content": "https://bluefireproductions.github.io/illiad_bluefire.epub",
       "id": "8",
       "price": "4.99",
@@ -65,14 +72,6 @@
       "thumbnail": "https://bluefireproductions.github.io/llama.png",
       "title": "Llama Llama",
       "type": "book"
-    },
-    {
-      "content": "https://bluefireproductions.github.io/Drawing.btv",
-      "id": "11",
-      "price": "4.99",
-      "thumbnail": "https://bluefireproductions.github.io/Drawing.jpg",
-      "title": "3D -  Drawing",
-      "type": "experience"
     }
   ]
 }
